@@ -1,0 +1,20 @@
+.footer {
+  text-align: center;
+}
+
+.social-icon {
+  padding: 0% 2%;
+  font-size: 1.5rem;
+}
+
+.github {
+  color: rgb(80,34,117);
+}
+
+.twitter {
+  color: rgb(0, 121, 200);
+}
+
+.email {
+  color: rgb(110,160,130);
+}
